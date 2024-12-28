@@ -1,4 +1,4 @@
-local Targets = {"albercraft20", "zhxr1_16V"} -- "All", "Target Name", "arian_was_here"
+local Targets = {"albercraft20", "zhxr1_16V", "Default_Pivot"} -- "All", "Target Name", "arian_was_here"
 
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
